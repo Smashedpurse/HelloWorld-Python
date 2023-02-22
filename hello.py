@@ -40,3 +40,11 @@ print(myFirstTuple)
 #Set A set is a collection of data types similar to list and tuple. Unlike list and tuple, set is not an ordered collection of items. Like in Mathematics, set in Python stores only unique items.
 myFirstSet = {3,23,23,5,75.2}
 print(myFirstSet)
+
+
+#Checking Data types
+#To check the data type of certain data/variable we use the type function. In the following terminal you will see different python data types:
+
+print(type(myFirstSet)) #Set
+print(type(myFirstTuple))#Tuple
+print(type(ProfileResume))#Dictionary
