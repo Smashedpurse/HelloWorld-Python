@@ -12,9 +12,20 @@ This is another comment multiline
 :D
 '''
 
-#List
+#List - Arrays
 constList= [1,2,3]
 print(constList)
 
 differentInfo = ['Bannana',10,False,0.81]
 print(differentInfo)
+
+#Dictionary
+ProfileResume={
+    'first_name':'Ivan',
+    'second_name':'Rubio',
+    'country':'Mexico',
+    'age':23,
+    'is_married':False,
+    'skills':['JS','React','Node','Python']
+}
+print(ProfileResume)
