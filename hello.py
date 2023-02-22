@@ -19,7 +19,7 @@ print(constList)
 differentInfo = ['Bannana',10,False,0.81]
 print(differentInfo)
 
-#Dictionary
+#Dictionary - Object
 ProfileResume={
     'first_name':'Ivan',
     'second_name':'Rubio',
@@ -29,3 +29,8 @@ ProfileResume={
     'skills':['JS','React','Node','Python']
 }
 print(ProfileResume)
+
+#Tuple - A tuple is an ordered collection of different data types like list but tuples can not be modified once they are created. They are immutable.
+
+('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+('Earth','Jupiter','Venus','Mars') #Planets
