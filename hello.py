@@ -7,4 +7,8 @@ This is multiline comment
 multiline comment takes multiple lines.
 python is eating the world
 """
+'''
+This is another comment multiline
+:D
+'''
 
