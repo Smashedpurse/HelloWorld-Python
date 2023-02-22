@@ -12,3 +12,9 @@ This is another comment multiline
 :D
 '''
 
+#List
+constList= [1,2,3]
+print(constList)
+
+differentInfo = ['Bannana',10,False,0.81]
+print(differentInfo)
