@@ -44,7 +44,8 @@ print(myFirstSet)
 
 #Checking Data types
 #To check the data type of certain data/variable we use the type function. In the following terminal you will see different python data types:
-
 print(type(myFirstSet)) #Set
 print(type(myFirstTuple))#Tuple
 print(type(ProfileResume))#Dictionary
+print(type('Hola Python'))#String
+
