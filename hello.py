@@ -32,5 +32,11 @@ print(ProfileResume)
 
 #Tuple - A tuple is an ordered collection of different data types like list but tuples can not be modified once they are created. They are immutable.
 
-('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+myFirstTuple = ('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+print(myFirstTuple)
+
 ('Earth','Jupiter','Venus','Mars') #Planets
+
+#Set A set is a collection of data types similar to list and tuple. Unlike list and tuple, set is not an ordered collection of items. Like in Mathematics, set in Python stores only unique items.
+myFirstSet = {3,23,23,5,75.2}
+print(myFirstSet)
